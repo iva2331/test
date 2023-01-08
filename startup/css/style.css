@@ -1,0 +1,36 @@
+body{
+    font-size: 20px;
+    font-family:'sen' sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.menu li a{
+    text-transform: uppercase;
+    text-decoration: none;
+}
+ul, li{
+    display: block;
+    padding: 0;
+    margin: 0;
+}
+.menu li{
+    margin-right: 30px;
+}
+.container{
+    width: 1440
+    px;
+    margin: 0;
+
+}
+.menu{
+    display: flex;
+}
+.header a{
+    color: brown;
+}
+.header{
+    background: url('../image/bc.png') no-repeat center top / cover;
+    padding-top: 26px;
+    height: 80px;
+
+}
